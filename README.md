@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm blackout</h1>
 <h3 align="center">I am a junior level programmer from America</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackout8324&label=Profile%20views&color=000000&style=flat" alt="blackout8324" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackout8324" alt="blackout8324" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
